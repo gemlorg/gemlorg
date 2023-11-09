@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hii
 
+I am mostly busy studying untill next summer, but if I am to work on something interesting, I will make sure to let you know
 <!--
 **gemlorg/gemlorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
